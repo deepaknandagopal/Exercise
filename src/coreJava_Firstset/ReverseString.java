@@ -7,6 +7,12 @@ import java.io.PrintStream;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * @author Deepak Kumar Nandagopal
+ *
+ * Java Program to reverse the String using String.equals(), String.charAt(), String.length().
+ * Input from user is read in a loop until the user enters a string.
+ */
 public class ReverseString
 {
   public ReverseString() {}
