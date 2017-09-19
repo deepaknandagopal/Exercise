@@ -29,5 +29,4 @@ public class EnhancedForLoop {
 			System.out.println(element);
 		}
 	}
-
 }
